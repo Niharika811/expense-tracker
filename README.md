@@ -16,4 +16,4 @@ To get started with the Expense Tracker application, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/Niharika811/expense-tracker.git
